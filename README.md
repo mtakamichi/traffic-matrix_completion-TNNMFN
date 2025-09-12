@@ -78,7 +78,7 @@ If you use this code, please cite:
 ---
 
 ## License
-This project is released under the MIT License.  
+This project is released under the Apache 2.0 License.  
 See the [LICENSE](./LICENSE) file for details.
 
 ---
