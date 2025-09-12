@@ -45,17 +45,12 @@ For background and documentation on the dataset, see: https://roughan.info/proje
 
 Run the MATLAB preprocessing script to convert the raw Abilene data into a .mat file used by the experiments:
 
-```% In MATLAB
-Preprocess_Abilene_data.m
+```
+% In MATLAB
+Preprocess_Abilene_data
 ```
 
-This will create:
-
-```
-abilene_tm_2016.mat
-```
-
-in the repository directory.
+This will create `abilene_tm_2016.mat` in the repository directory.
 
 ###  3) Run TM Completion
 
