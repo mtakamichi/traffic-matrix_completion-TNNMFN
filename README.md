@@ -67,7 +67,7 @@ If you use this code, please cite:
 ```bibtex
 @INPROCEEDINGS{Miyata24_TNNMFN,
   author    = {Miyata, Takamichi},
-  booktitle = {NOMS 2024-2024 IEEE Network Operations and Management Symposium},
+  booktitle = {IEEE Network Operations and Management Symposium Workshop},
   title     = {Completion of Traffic Matrix by Tensor Nuclear Norm Minus Frobenius Norm Minimization and Time Slicing},
   year      = {2024},
   pages     = {1-5},
