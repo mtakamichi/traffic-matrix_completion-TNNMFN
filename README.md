@@ -59,12 +59,7 @@ Execute the main script to perform traffic matrix completion with TNMF + Time Sl
 % In MATLAB
 TNNMFN_Abilene_ANNET
 ```
-
 If everything is set correctly, you should obtain the same Figure 1 as reported in the paper (NMAE vs. missing probability).
-
-## Reproducing the Figure in the Paper
-
-The script TNNMFN_Abilene_ANNET.m sweeps the missing probability and plots NMAE for the proposed method and baselines (where implemented in this repo). The generated plot should match Figure 1 in the paper (Abilene dataset).
 
 ## Citation
 If you use this code, please cite:
@@ -79,11 +74,6 @@ If you use this code, please cite:
   doi       = {10.1109/NOMS59830.2024.10575433}
 }
 ```
-
-## Acknowledgments
-This implementation is partly based on prior tensor completion work.  
-Special thanks to the authors of **HaLRTC** and related open-source resources:  
-- [https://github.com/xinychen/tensor_completion](https://github.com/xinychen/tensor_completion)
 
 ---
 
