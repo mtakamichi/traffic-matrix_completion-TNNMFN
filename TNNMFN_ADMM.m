@@ -6,7 +6,7 @@
 % s.t.:  X_\Omega = T_\Omega
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function [U, errList] = WLRTC_truetrueADMM(T, Omega, alpha, gamma, maxIter, epsilon, T_org)
+function [U, errList] = TNNMFN_ADMM(T, Omega, alpha, gamma, maxIter, epsilon, T_org)
 
 
 errList = zeros(maxIter, 1);
